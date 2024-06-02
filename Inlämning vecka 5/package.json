@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "jokes",
+  "version": "1.0.0",
+  "description": "Joke machine!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Magnus Freidenfelt",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
